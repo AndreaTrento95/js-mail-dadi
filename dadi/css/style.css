@@ -8,11 +8,13 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: khaki;
+    background-color: lightgray;
 }
 .wrapper {
-    background-color: midnightblue;
+    background-color: aquamarine;
     padding: 100px 80px;
+    border: 1px solid white;
+    border-radius: 10px;
 }
 #output1 {
     color: green;
