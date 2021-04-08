@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: khaki;
+}
+
+#output1 {
+    color: green;
+}
+#output2 {
+    color: red;
+}
+#output3 {
+    color: black;
+}
