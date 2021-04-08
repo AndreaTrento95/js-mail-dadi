@@ -15,5 +15,5 @@ if(numero_utente > numero_computer){
 }else if(numero_utente < numero_computer){
     document.getElementById("output2").innerHTML = "Hai perso!"
 }else if(numero_utente === numero_computer){
-    document.getAnimations("output3").innerHTML = "Pareggio!"
+    document.getElementById("output3").innerHTML = "Pareggio!"
 }
